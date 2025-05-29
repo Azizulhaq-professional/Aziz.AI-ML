@@ -1,0 +1,4 @@
+﻿OrderID,Product,Category,Quantity,Price,Date,Region
+1001,Laptop,Tech,2,1200,1/12/2024,West
+1002,Chair,Furniture,5,85,1/14/2024,East
+1003,Phone,Tech,1,999,1/15/2024,South
